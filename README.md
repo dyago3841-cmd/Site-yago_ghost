@@ -1,4 +1,3 @@
-# Site-yago_ghost
 <!DOCTYPE html>
 <html>
 <head>
