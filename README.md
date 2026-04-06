@@ -24,7 +24,7 @@
 
     <br><br>
 
-    <button onclick="window.location.href='https://www.instagram.com/yago'" 
+    <button onclick="window.location.href='https://www.instagram.com/yago_ph.007?igsh=bDVoOTQwcmRvOGhi'" 
     style="padding:15px; font-size:16px; background-color:black; color:#00ff00; border:2px solid #00ff00;">
         📸 Instagram
     </button>
