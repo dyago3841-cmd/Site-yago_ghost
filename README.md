@@ -31,7 +31,7 @@
 
     <br><br>
 
-    <button onclick="window.location.href='https://mcpelife.com/minecraft-pe-26-12/download/1/'" 
+    <button onclick="window.location.href='https://mcpelife.com/minecraft-pe-26-13/download/1/'" 
     style="padding:15px; font-size:16px; background-color:black; color:#00ff00; border:2px solid #00ff00;">
         🟩 Minecraft de graça
     </button>
